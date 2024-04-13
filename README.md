@@ -1,1 +1,1 @@
-# blog-transformers-diffusers
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/3-tformers-dfusers/) on HuggingFace Transformers and Diffusers libraries. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
